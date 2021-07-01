@@ -37,3 +37,5 @@ reset-tickets
 [Discord Server](https://discord.gg/pUy7YcxNuR)
 
 My Discord : TFC Mahmoud#2021
+
+### All Copyrights Goes To TFC Mahmoud
